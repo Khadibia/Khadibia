@@ -1,0 +1,8 @@
+slug: cencori
+title: Cencori MCP Server
+tags: [MCP, TypeScript, AI Agents, Tool Calling, Web Search, Governance]
+summary: "I built @cencori/mcp — Cencori's official Model Context Protocol server. It's a thin stdio adapter over Cencori's HTTP APIs, giving MCP clients access to web search, docs, gateway metrics, memory, agents, sessions, governance, and multimodal inference — with explicit read/write/destructive action tiers."
+docs_url: https://cencori.com/docs/mcp
+npm: "@cencori/mcp"
+featured: true
+link_type: external_demo

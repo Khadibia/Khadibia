@@ -1,0 +1,12 @@
+slug: churnpred
+title: ChurnPred
+tags: [Python, XGBoost, PyTorch, MLflow, FastAPI, Docker, MLOps, Scikit-learn]
+summary: "I built a production-grade MLOps pipeline trained on 37,000 customer records. I implemented a champion/challenger framework — XGBoost champion (ROC-AUC 0.976, F1 0.939) vs a PyTorch deep learning challenger — with MLflow tracking, a FastAPI inference API, and Docker deployment."
+metrics:
+  roc_auc: 0.976
+  f1: 0.939
+github: https://github.com/Khadibia/churn-prediction-mlops
+demo_url: https://khadibia-churnpred.hf.space
+demo_space: https://huggingface.co/spaces/Khadibia/ChurnPred
+featured: true
+link_type: live_demo

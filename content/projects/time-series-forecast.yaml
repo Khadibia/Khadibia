@@ -1,0 +1,6 @@
+slug: time-series-forecast
+title: Time Series Forecast
+tags: [Pandas, Seaborn, Prophet]
+summary: "I used Meta's Prophet to build a simple sales forecast from time series data."
+featured: false
+link_type: narrative

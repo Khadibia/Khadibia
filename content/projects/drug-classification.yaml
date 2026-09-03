@@ -1,0 +1,6 @@
+slug: drug-classification
+title: Drug Category Classification
+tags: [Pandas, Seaborn, Decision Tree, Random Forest]
+summary: "I tackled a multiclass classification problem predicting the most suitable drug for patients based on medical profiles, comparing Decision Tree and Random Forest models."
+featured: false
+link_type: narrative

@@ -1,0 +1,6 @@
+slug: loan-default-nb
+title: Loan Default Analysis and Prediction
+tags: [Pandas, Seaborn, GaussianNB]
+summary: "I analysed factors influencing loan defaults and implemented a Naive Bayes model for default prediction."
+featured: false
+link_type: narrative

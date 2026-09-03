@@ -1,0 +1,69 @@
+# ── Environment / secrets ─────────────────────────────
+.env
+.env.local
+.env.*.local
+.env.development
+.env.production
+
+# ── Python (agent/) ───────────────────────────────────
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# ── Node / Next.js (frontend/) ────────────────────────
+node_modules/
+.pnp
+.pnp.*
+.yarn/
+.next/
+out/
+build/
+next-env.d.ts
+*.tsbuildinfo
+.turbo/
+.eslintcache
+
+# Generated content snapshot (copied from /content by scripts/sync-content.mjs)
+content-snapshot/
+
+# Static export (built by the Dockerfile / npm run build)
+frontend/out/
+
+# ── Logs / debug ──────────────────────────────────────
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs/
+
+# ── Docker / deploy ───────────────────────────────────
+.docker/
+*.pid
+
+# ── OS / IDE ──────────────────────────────────────────
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ── Misc ──────────────────────────────────────────────
+.claude/
+*.bak
+*.tmp
+

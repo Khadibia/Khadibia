@@ -1,0 +1,6 @@
+slug: lax-traffic
+title: LAX Passenger Traffic Analysis
+tags: [Pandas, NumPy, Seaborn, XGBoost, K-Means, Time Series]
+summary: "I analysed passenger traffic at LAX from 2019 to 2023, identifying peak and off-peak periods, grouping terminals by traffic flow patterns, and forecasting future passenger trends."
+featured: false
+link_type: narrative

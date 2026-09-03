@@ -1,0 +1,6 @@
+slug: bumblebee
+title: Bumblebee — Ops AI Agent
+tags: [Python, MCP, LLMs, AI Agents, Tool Calling, Voice Input, FastAPI, SMS, Email]
+summary: "I built Bumblebee, a 27-tool MCP-powered AI agent connecting LLaMA to live business systems via stdio transport. It accepts voice input and enables natural language interaction with internal data — queries, emailing, and SMS triggering."
+featured: true
+link_type: narrative

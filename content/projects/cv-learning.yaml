@@ -1,0 +1,7 @@
+slug: cv-learning
+title: Computer Vision Learning Projects
+tags: [PyTorch, YOLO, MTCNN, ResNet, CNN, Stable Diffusion]
+summary: "During a 50-day CV challenge I built several notebook projects — YOLOv5 road sign detection (mAP@0.5 92%), MTCNN face recognition, ResNet34 cat breed classification, Stable Diffusion from scratch, and CNN projects on MRI and crop disease data. These stayed in notebooks; they were never deployed to production."
+github: https://github.com/Khadibia/Deep-Learning-Computer-Vision
+featured: false
+link_type: narrative

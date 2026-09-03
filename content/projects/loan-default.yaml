@@ -1,0 +1,6 @@
+slug: loan-default
+title: Loan Default Prediction
+tags: [Pandas, Seaborn, Random Forest]
+summary: "I used a Random Forest classifier to predict loan defaults, balancing false alarms while accurately identifying real risks."
+featured: false
+link_type: narrative

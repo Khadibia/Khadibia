@@ -1,0 +1,6 @@
+slug: imdb-sentiment
+title: IMDB Sentiment Analysis
+tags: [Python, NLP, TF-IDF, SVM, Regex]
+summary: "I built an SVM classifier with a linear kernel to classify IMDb movie reviews as positive or negative, with regex cleaning, tokenisation, and TF-IDF vectorisation."
+featured: false
+link_type: narrative

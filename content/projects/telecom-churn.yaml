@@ -1,0 +1,6 @@
+slug: telecom-churn
+title: Telecom Churn Analysis
+tags: [Pandas, NumPy, EDA, Statistical Analysis]
+summary: "I explored telecom customer churn — usage patterns, contract details, and demographics — to surface insights for retention strategies."
+featured: false
+link_type: narrative

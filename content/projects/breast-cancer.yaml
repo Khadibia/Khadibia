@@ -1,0 +1,6 @@
+slug: breast-cancer
+title: Breast Cancer Classification
+tags: [Pandas, Seaborn, Scikit-learn, Logistic Regression, ROC-AUC]
+summary: "I built a classification model to predict breast cancer (malignant or benign) using diagnostic features such as radius, texture, and perimeter, with recursive feature elimination and ROC-AUC evaluation."
+featured: false
+link_type: narrative

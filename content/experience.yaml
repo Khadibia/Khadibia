@@ -1,0 +1,76 @@
+roles:
+  - company: FieldWatch
+    title: Machine Learning & Backend Engineer
+    start: "2025-10"
+    end: present
+    bullets:
+      - Built and deployed computer vision models for semantic segmentation and object detection on aerial, drone, and satellite imagery, fine-tuning DeepLab and Meta's Segment Anything Model (SAM) to achieve an IoU of 0.94.
+      - Designed and deployed ML services on Google Cloud Platform via Cloud Run and Compute Engine, serving models through REST APIs for scalable, low-latency inference.
+      - Containerised models with Docker, managing autoscaling, versioning, and artifact storage on GCS.
+      - Applied geospatial ML workflows using QGIS for annotation, validation, and spatial analysis.
+    tags:
+      - Python
+      - PyTorch
+      - DeepLab
+      - SAM
+      - Computer Vision
+      - GCP
+      - Cloud Run
+      - Docker
+      - REST API
+      - QGIS
+      - MLOps
+
+  - company: Ihifix Technologies
+    title: Data Scientist
+    start: "2025-02"
+    end: present
+    bullets:
+      - Built Bumblebee, a 27-tool MCP-powered AI agent connecting LLaMA to live business systems via stdio transport — handling voice input, natural language queries, email automation, and SMS triggering.
+      - Shipped ChurnPred, a production MLOps pipeline on 37,000 records with an XGBoost champion model (ROC-AUC 0.976, F1 0.939) tracked via MLflow and served through a Dockerised FastAPI inference API.
+      - Designed RAG pipelines grounding LLM responses on internal datasets, reducing hallucinations in production workflows.
+      - Built and orchestrated AI automation workflows using n8n, integrating LLM outputs into live business processes.
+    tags:
+      - Python
+      - MCP
+      - LLMs
+      - AI Agents
+      - RAG
+      - MLOps
+      - XGBoost
+      - FastAPI
+      - Docker
+      - n8n
+
+  - company: Cencori
+    title: ML/AI Engineer
+    start: "2025"
+    end: present
+    bullets:
+      - Built @cencori/mcp, Cencori's official Model Context Protocol server — a stdio adapter over Cencori's HTTP APIs for web search, docs, gateway metrics, memory, agents, sessions, governance, and multimodal inference.
+      - Implemented explicit action tiers (read, write, destructive) with capability flags for MCP clients such as Cursor and Claude Desktop.
+      - Shipped first-party Web tools (web_search, web_fetch, web_extract, web_browse) backed by Cencori's crawler and hybrid index.
+    tags:
+      - MCP
+      - TypeScript
+      - AI Agents
+      - Tool Calling
+      - Governance
+
+  - company: Freelance
+    title: Data Entry & Management
+    start: "2024-04"
+    end: "2024-12"
+    bullets:
+      - Data entry and management using Microsoft Excel.
+    tags:
+      - Microsoft Excel
+
+  - company: Internship
+    title: Data Management Intern
+    start: "2021"
+    end: "2021"
+    bullets:
+      - Data management using Microsoft Excel.
+    tags:
+      - Microsoft Excel

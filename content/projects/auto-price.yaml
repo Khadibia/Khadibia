@@ -1,0 +1,6 @@
+slug: auto-price
+title: Auto Price Prediction
+tags: [Pandas, NumPy, OLS, Linear Regression]
+summary: "I built a linear regression model predicting car price from maker and horsepower."
+featured: false
+link_type: narrative

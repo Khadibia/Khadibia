@@ -1,0 +1,9 @@
+slug: fieldwatch
+title: FieldWatch Vectoriser
+tags: [Python, QGIS, SAM, Computer Vision, REST API, PyTorch, GIS]
+summary: "I built a production QGIS plugin for AI-assisted geospatial vectorization. It runs SAM-based one-click segmentation locally for interactive structure detection, and sends polygon crops to a cloud inference API for large-area building and solar panel detection at scale."
+github: https://github.com/fw-qgis-vectorizer
+product_url: https://usefieldwatch.com/gisplugin
+video_demo: https://youtu.be/cFoHP4vLqro
+featured: true
+link_type: external_demo
