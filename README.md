@@ -12,10 +12,3 @@ portfolio/
 ├── Dockerfile        # Multi-stage: build UI → run API + static
 └── .env              # Local secrets (do not commit)
 ```
-
-## Flagship projects
-
-- **ChurnPred** — live demo on HF Space
-- **FieldWatch** — [fw-qgis-vectorizer](https://github.com/fw-qgis-vectorizer) + product demo
-- **Cencori MCP** — docs link
-- **Bumblebee** — narrative (private/work)
