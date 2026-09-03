@@ -1,4 +1,19 @@
 roles:
+  - company: Cencori
+    title: AI Engineer
+    start: "2026-06"
+    end: present
+    bullets:
+      - Built @cencori/mcp, Cencori's official Model Context Protocol server — a stdio adapter over Cencori's HTTP APIs for web search, docs, gateway metrics, memory, agents, sessions, governance, and multimodal inference.
+      - Implemented explicit action tiers (read, write, destructive) with capability flags for MCP clients such as Cursor and Claude Desktop.
+      - Shipped first-party Web tools (web_search, web_fetch, web_extract, web_browse) backed by Cencori's crawler and hybrid index.
+    tags:
+      - MCP
+      - TypeScript
+      - AI Agents
+      - Tool Calling
+      - Governance
+
   - company: FieldWatch
     title: Machine Learning & Backend Engineer
     start: "2025-10"
@@ -22,7 +37,7 @@ roles:
       - MLOps
 
   - company: Ihifix Technologies
-    title: Data Scientist
+    title: ML/AI Engineer
     start: "2025-02"
     end: present
     bullets:
@@ -41,30 +56,6 @@ roles:
       - FastAPI
       - Docker
       - n8n
-
-  - company: Cencori
-    title: ML/AI Engineer
-    start: "2025"
-    end: present
-    bullets:
-      - Built @cencori/mcp, Cencori's official Model Context Protocol server — a stdio adapter over Cencori's HTTP APIs for web search, docs, gateway metrics, memory, agents, sessions, governance, and multimodal inference.
-      - Implemented explicit action tiers (read, write, destructive) with capability flags for MCP clients such as Cursor and Claude Desktop.
-      - Shipped first-party Web tools (web_search, web_fetch, web_extract, web_browse) backed by Cencori's crawler and hybrid index.
-    tags:
-      - MCP
-      - TypeScript
-      - AI Agents
-      - Tool Calling
-      - Governance
-
-  - company: Freelance
-    title: Data Entry & Management
-    start: "2024-04"
-    end: "2024-12"
-    bullets:
-      - Data entry and management using Microsoft Excel.
-    tags:
-      - Microsoft Excel
 
   - company: Internship
     title: Data Management Intern
