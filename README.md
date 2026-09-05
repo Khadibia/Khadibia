@@ -4,7 +4,7 @@
 
 > I build AI systems that work in production.
 
-<<<<<<< HEAD
+
 ```
 portfolio/
 ├── content/          # Shared YAML/Markdown — site + agent
@@ -13,7 +13,7 @@ portfolio/
 ├── Dockerfile        # Multi-stage: build UI → run API + static
 └── .env              # Local secrets (do not commit)
 ```
-=======
+
 ## 🧠 What I do
 
 - **AI Agents & MCP** — building tool-calling agents and Model Context Protocol servers that connect LLMs to real systems
@@ -44,4 +44,3 @@ This repository is my **portfolio + Khadibia agent** — a single-service deploy
 - CV: [`Anthony_Enujeko_CV.pdf`](https://github.com/Khadibia/Khadibia/blob/main/Anthony_Enujeko_CV.pdf)
 - Hugging Face: [@Khadibia](https://huggingface.co/Khadibia)
 
->>>>>>> 7767391 (readme change)
