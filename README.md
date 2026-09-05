@@ -4,16 +4,6 @@
 
 > I build AI systems that work in production.
 
-
-```
-portfolio/
-├── content/          # Shared YAML/Markdown — site + agent
-├── agent/            # FastAPI + smolagents + static file serving
-├── frontend/         # Next.js static export (built into agent image)
-├── Dockerfile        # Multi-stage: build UI → run API + static
-└── .env              # Local secrets (do not commit)
-```
-
 ## 🧠 What I do
 
 - **AI Agents & MCP** — building tool-calling agents and Model Context Protocol servers that connect LLMs to real systems
