@@ -2,7 +2,7 @@ import { readFileSync, readdirSync, existsSync } from "node:fs";
 import { join } from "node:path";
 import { load } from "js-yaml";
 
-import type { EducationEntry, ExperienceRole, Profile, Project } from "./types";
+import type { Certification, EducationEntry, ExperienceRole, Profile, Project } from "./types";
 
 function contentDir(): string {
   const snapshot = join(process.cwd(), "content-snapshot");
@@ -40,6 +40,11 @@ export function getEducation(): EducationEntry[] {
   return data.education ?? [];
 }
 
+export function getCertifications(): Certification[] {
+  const data = readYaml<{ certifications: Certification[] }>("certifications.yaml");
+  return data.certifications ?? [];
+}
+
 export function getExperience(): ExperienceRole[] {
   const data = readYaml<{ roles: ExperienceRole[] }>("experience.yaml");
   return data.roles ?? [];
@@ -62,8 +67,10 @@ export function getFeaturedProjects(): Project[] {
 export function getProjectLinks(project: Project): { label: string; url: string }[] {
   const links: { label: string; url: string }[] = [];
 
-  if (project.demo_url) links.push({ label: "Live demo", url: project.demo_url });
+  if (project.demo_url) links.push({ label: "Live Demo", url: project.demo_url });
   if (project.product_url) links.push({ label: "Product", url: project.product_url });
+  if (project.docs_url) links.push({ label: "Docs", url: project.docs_url });
+  if (project.npm) links.push({ label: "npm", url: `https://www.npmjs.com/package/${project.npm}` });
   if (project.video_demo) links.push({ label: "Video", url: project.video_demo });
   if (project.github) links.push({ label: "GitHub", url: project.github });
   if (project.demo_space && !project.demo_url) {

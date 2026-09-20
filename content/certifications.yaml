@@ -1,0 +1,18 @@
+certifications:
+  - title: Hugging Face AI Fundamentals Certificate
+    issuer: Hugging Face
+    year: "2026"
+    badge: "AI & LLMs"
+    description: "Foundational LLMs, transformers, fine-tuning, and modern AI engineering."
+
+  - title: Deep Learning for Computer Vision
+    issuer: Applied AI Lab
+    year: "2025"
+    badge: "Computer Vision"
+    description: "Deep learning architectures for semantic segmentation, object detection, and CNNs."
+
+  - title: Google Data Analytics Professional Certificate
+    issuer: Google
+    year: "2023"
+    badge: "Data & Analytics"
+    description: "End-to-end data analysis, SQL, statistical modeling, and data pipelines."
