@@ -29,8 +29,8 @@ export function Nav() {
             Experience
           </a>
           <a
-            href="/Anthony_Enujeko_CV.pdf"
-            download="Anthony_Enujeko_CV.pdf"
+            href="/Anthony_Enujeko_Resume.pdf"
+            download="Anthony_Enujeko_Resume.pdf"
             className="text-muted transition-colors hover:text-accent"
           >
             CV

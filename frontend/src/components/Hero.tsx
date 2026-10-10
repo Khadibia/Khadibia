@@ -21,8 +21,8 @@ export function Hero() {
           </p>
           <p className="mt-3 max-w-2xl text-sm text-muted/80">{profile.agent.intro}</p>
           <a
-            href="/Anthony_Enujeko_CV.pdf"
-            download="Anthony_Enujeko_CV.pdf"
+            href="/Anthony_Enujeko_Resume.pdf"
+            download="Anthony_Enujeko_Resume.pdf"
             className="mt-5 inline-flex items-center rounded-full border border-accent/40 px-4 py-2 text-sm text-accent transition-colors hover:bg-accent/10"
           >
             Download CV

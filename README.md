@@ -31,6 +31,6 @@ This repository is my **portfolio + Khadibia agent** — a single-service deploy
 
 ## 📫 Reach me
 
-- CV: [`Anthony_Enujeko_CV.pdf`](https://github.com/Khadibia/Khadibia/blob/main/Anthony_Enujeko_CV.pdf)
+- Resume: [`Anthony_Enujeko_Resume.pdf`](https://github.com/Khadibia/Khadibia/blob/main/Anthony_Enujeko_Resume.pdf)
 - Hugging Face: [@Khadibia](https://huggingface.co/Khadibia)
 
